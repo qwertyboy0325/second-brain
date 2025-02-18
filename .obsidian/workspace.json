@@ -11,10 +11,14 @@
             "id": "69173e08a89861fd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "00-Inbox/待辦事項.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "待辦事項"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00-Inbox/待辦事項.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 待辦事項"
             }
           },
           {
@@ -154,13 +159,33 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "8760aad08e75c4d7",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections"
+            }
+          },
+          {
+            "id": "71bd2ea710bc4100",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Smart Chat"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,32 +195,45 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "69173e08a89861fd",
   "lastOpenFiles": [
-    "02-Areas/WebGL框架使用.md",
-    "01-Projects/音軌編輯應用.md",
-    "02-Areas/學習索引.md",
-    "02-Areas/Rust與tone.js整合.md",
-    "02-Areas/DDD架構設計.md",
-    "Untitled.canvas",
-    "README.md",
-    "Welcome.md",
+    "Templates/專案模板.md",
+    "02-Areas/課堂筆記/影片中學英語/影片中學英語 - Week 1.md",
+    "03-Resources/~$ orientation syllabus+grading.docx",
+    "().md",
     "Daily/2025-02-18.md",
     "00-Inbox/待辦事項.md",
-    "01-Projects/登山攝影專案.md",
+    "02-Areas/DDD架構設計.md",
+    "03-Resources/w1 orientation syllabus+grading.docx",
+    "03-Resources/下載/20241007_142348 8min.rar",
+    "03-Resources/下載/20241007_142348 8min.mp4",
+    "03-Resources/下載/2.mp4",
+    "03-Resources/下載/2. Requirement.pdf",
+    "03-Resources/下載",
+    "Templates/課堂筆記.md",
+    "02-Areas/課堂筆記/影片中學英語/Week 1- Introduction.md",
     "Templates/Daily Note.md",
+    "該課程索引.md",
+    "02-Areas/課堂筆記/影片中學英語/2025-02-18_.md",
+    "01-Projects/音軌編輯應用.md",
+    "02-Areas/課堂筆記/影片中學英語",
+    "02-Areas/課堂筆記",
+    "MIDI編曲筆記.md",
+    "README.md",
+    "01-Projects/登山攝影專案.md",
+    "02-Areas/WebGL框架使用.md",
+    "02-Areas/學習索引.md",
+    "02-Areas/Rust與tone.js整合.md",
+    "Untitled.canvas",
+    "Welcome.md",
     "Rust學習筆記.md",
     "某專案筆記.md",
     "Daily/Untitled.md",
-    "Daily",
-    "Templates",
-    "04-Archive",
-    "03-Resources",
-    "02-Areas",
-    "01-Projects",
-    "00-Inbox"
+    "Daily"
   ]
 }
