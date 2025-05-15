@@ -129,12 +129,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-Areas/git/Git Cheat Sheet.md",
+                "file": "02-Areas/git/Git 新手入門實戰課程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git Cheat Sheet"
+              "title": "Git 新手入門實戰課程"
             }
           }
         ],
@@ -211,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02-Areas/git/Git Cheat Sheet.md",
+                "file": "02-Areas/git/Git 新手入門實戰課程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Git Cheat Sheet"
+              "title": "Backlinks for Git 新手入門實戰課程"
             }
           },
           {
@@ -323,8 +323,9 @@
   },
   "active": "5787be58875bfbe4",
   "lastOpenFiles": [
-    "Daily/2025-05-15.md",
     "02-Areas/git/Git Cheat Sheet.md",
+    "02-Areas/git/Git 新手入門實戰課程.md",
+    "Daily/2025-05-15.md",
     "02-Areas/git",
     "01-Projects/音軌編輯應用/MVP/MVP 詳細時程.md",
     "Daily/2025-05-14.md",
@@ -349,7 +350,6 @@
     "Daily/2025-05-05.md",
     "Daily/2025-05-04.md",
     "Daily/2025-05-01.md",
-    "01-Projects/音軌編輯應用/音軌編輯應用.md",
     "01-Projects/音軌編輯應用/MVP",
     "02-Areas/課堂筆記/電子商務",
     "01-Projects/音軌編輯應用/功能發想/創作過程紀錄",
