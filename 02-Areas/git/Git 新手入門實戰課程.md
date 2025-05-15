@@ -186,3 +186,6 @@ git add .gitignore
 git commit -m "新增 .gitignore 檔案，忽略特定檔案"
 ```
 之後，被列在 .gitignore 裡的檔案就不會出現在 git status 的未追蹤列表裡了。
+
+
+// TODO: 補完剩下章節
