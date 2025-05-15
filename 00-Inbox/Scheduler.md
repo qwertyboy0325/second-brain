@@ -1,0 +1,5 @@
+- 負責控制 Codelet 的 `tick()` 何時執行。
+- 可支援：
+    - 單線程（Single-threaded）與多線程（Multi-threaded）
+    - 條件觸發（Conditional execution）
+    - 非同步調度（Asynchronous scheduling）

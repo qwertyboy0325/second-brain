@@ -1,0 +1,8 @@
+- [[Core Domain]]
+- [[Generic Subdomain]]
+- [[Supporting Subdomain]]
+- [[Anti-Corruption Layer]]
+- [[Shared Kernel]]
+- [[Conformist]]
+- [[Open Host Service]]
+- [[Published Language]]

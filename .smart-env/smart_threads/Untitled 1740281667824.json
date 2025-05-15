@@ -1,0 +1,120 @@
+{
+  "path": ".smart-env/smart_threads/Untitled 1740281667824.json",
+  "last_embed": {
+    "hash": null
+  },
+  "embeddings": {},
+  "last_read": {
+    "hash": null,
+    "mtime": 0
+  },
+  "created_at": 1740281667824,
+  "responses": {},
+  "messages": {
+    "user-1-1740281852194-1": 1,
+    "user-2-1740281876615-1": 2,
+    "user-3-1740281935679-1": 3
+  },
+  "branches": {},
+  "class_name": "ScThread",
+  "key": "Untitled 1740281667824",
+  "blocks": [
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1740281667824",
+      "content": [
+        {
+          "type": "text",
+          "text": "hi"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 1,
+      "id": "user-1-1740281852194-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1740281852194-1",
+      "key": "Untitled 1740281667824#user-1-1740281852194-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1740281667824",
+      "content": [
+        {
+          "type": "text",
+          "text": "[[00-Inbox/GXF.md]] \nhelp me"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 2,
+      "id": "user-2-1740281876615-1",
+      "context": {
+        "internal_links": [
+          "00-Inbox/GXF.md"
+        ],
+        "has_self_ref": true
+      },
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1740281876615-1",
+      "key": "Untitled 1740281667824#user-2-1740281876615-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1740281667824",
+      "content": [
+        {
+          "type": "text",
+          "text": "00-Inbox/GXF.md\nhelp me"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 3,
+      "id": "user-3-1740281935679-1",
+      "context": {
+        "has_self_ref": true
+      },
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1740281935679-1",
+      "key": "Untitled 1740281667824#user-3-1740281935679-1"
+    }
+  ]
+}

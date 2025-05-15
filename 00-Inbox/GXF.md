@@ -1,0 +1,11 @@
+## GXF 核心概念
+[[Compute Graph]]
+[[Entitiy]]
+[[Component]]
+[[Codelet]]
+[[Connections]]
+[[Scheduler]]
+[[Memory Allocator]]
+[[Receivers, Transmitters & Router]]
+[[Tensor]]
+[[Parameters]]

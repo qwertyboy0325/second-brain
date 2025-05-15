@@ -4,19 +4,27 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": true,
+  "colorGroups": [
+    {
+      "query": "path:02-Areas/DDD  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7691271627458117,
-  "close": false
+  "collapse-forces": false,
+  "centerStrength": 0.593425605536332,
+  "repelStrength": 12.0069204152249,
+  "linkStrength": 0.603806228373703,
+  "linkDistance": 327,
+  "scale": 3.238906643638113,
+  "close": true
 }

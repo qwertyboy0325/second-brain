@@ -1,0 +1,5 @@
+- [[Event Bus]]
+- [[Message Queue]]
+- [[SAGA]]
+- [[Choreography]]
+- [[Orchestration]]
